@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zen
+- 👋 Hi, I’m Zen. Computer Science student.
 - 👀 I’m interested in developing Netflix Clone
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on big project in the future
-- 📫 How to reach me Instsgram (@hangzenol)
+- 🌱 Currently learning - Angular
+- 💞️ Not yet available for collaboration
+- 📫 Reach me on Instsgram (@hangzenol), TikTok (@hangzenol)
 
 <!---
 hangzenol/hangzenol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
