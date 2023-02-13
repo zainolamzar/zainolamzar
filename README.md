@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zen. Computer Science student.
-- 👀 I’m interested in developing Netflix Clone
-- 🌱 Currently learning - Angular
+- 👋 Hi, I’m Zain. Computer Science student.
+- 👀 I’m interested in developing BMI Checker
+- 🌱 Currently learning - Python and Laravel
 - 💞️ Not yet available for collaboration
-- 📫 Reach me on Instsgram (@hangzenol), TikTok (@hangzenol)
+- 📫 Reach me on TikTok (@hangzenol)
 
 <!---
 hangzenol/hangzenol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
