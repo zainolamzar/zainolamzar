@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zain. Computer Science student.
-- 👀 I’m interested in developing BMI Checker
-- 🌱 Currently learning - Python and Laravel
+- 👀 I’m interested in developing a full functional system
+- 🌱 Currently learning - ReactJS
 - 💞️ Not yet available for collaboration
 - 📫 Reach me on TikTok (@hangzenol)
 
