@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Zain. Computer Science student.
-- 👀 I’m interested in developing a full functional system
-- 🌱 Currently learning - ReactJS
-- 💞️ Not yet available for collaboration
-- 📫 Reach me on TikTok (@hangzenol)
+<h1>👋 Hi, I'm Zain</h1>
 
-<!---
-hangzenol/hangzenol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>I am an IT student who loves to code and create something new</h3>
+<h3>Currently into ReactJS and MySQL</h3>
+<h3>Have a 6-month experience in IT Industry</h3>
