@@ -6,3 +6,4 @@
 <h3>Have a 6-month experience in IT Industry</h3>
 <br>
 <h4>Check out my contents on <a href="https://www.tiktok.com/@hangzenol">Tiktok</a></h4>
+<h4>Reach me on <a href="https://www.linkedin.com/in/zainol-amzar/">LinkedIn</a></h4>
