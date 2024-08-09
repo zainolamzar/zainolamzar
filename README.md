@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AngularJS and ReactJS**
 
-- 👨‍💻 All of my projects are available at [zaincoder.com](zaincoder.com)
+- 👨‍💻 All of my projects are available on [zaincoder.com](zaincoder.com)
 
-- 📫 How to reach me **zainolamzar.work@gmail.com**
+- 📫 How to reach me **reach.me@zaincoder.com**
 
 - ⚡ Fun fact **I will not stop until I comprehend it**
 
