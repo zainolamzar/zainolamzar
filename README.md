@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlreGR3dmprYXE3Ym16b2V1Yjd4ZnNzeG90MWozbTJnamwycW81ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
+</div>
+
+###
+
 # 💫 About Me:
 🔭 I’m working as Software Engineer<br>📚 I'm currently learning Nextjs, Auth0<br>⚡ In my free time, I usually like to code some side projects 
 
