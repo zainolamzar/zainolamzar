@@ -4,8 +4,8 @@
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250" />
 
 # 👋 Hey, I'm **Zainol Amzar**
-🚀 Full Stack Developer passionate about building scalable and user-friendly applications.  
-💻 Currently working with **Next.js, NestJS, and PostgreSQL**  
+🚀 Full Stack Developer & QA Engineer passionate about building scalable, reliable, and well-tested applications.  
+💻 Currently working with **Next.js, NestJS, PostgreSQL, and automated testing tools**.  
 🌱 Always learning, coding side projects & exploring new technologies.  
 
 ---
@@ -23,8 +23,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,angular,nodejs,nest,express,tailwind,bootstrap,vercel,cloudflare" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=selenium,jest,playwright,git,github,vscode" />
 </p>
+
+---
+
+## 🧪 Quality Assurance (QA) Expertise
+As a **QA Engineer**, I focus on ensuring software reliability through:
+- 🧭 **End-to-End Testing** using **Playwright** and **Selenium**  
+- ⚙️ **Unit & Integration Testing** with **Jest**  
+- 🚀 **Continuous Integration** pipelines for automated test coverage  
+- 🧩 Writing clear, maintainable test cases & scripts  
+- 🔍 Passion for improving software quality and user experience  
 
 ---
 
@@ -32,16 +42,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zainolamzar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=zainolamzar&theme=chartreuse-dark&hide_border=false" height="150"/>
-
-
-
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainolamzar&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=8" height="150"/>
-
-
-
 </p>
 
 ---
@@ -59,9 +63,8 @@
 ## 💰 Support My Work
 If you like what I do, you can support me here:  
 
-[![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zainolamzar) 
-
-
+[![SociaBuzz](https://img.shields.io/badge/-SociaBuzz-ff6f00?style=for-the-badge&logo=heart&logoColor=white)](https://sociabuzz.com/zainolamzar/tribe)  
+[![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zainolamzar)  
 [![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zainolamzar)  
 
 ---
@@ -69,4 +72,3 @@ If you like what I do, you can support me here:
 [![](https://visitcount.itsvg.in/api?id=zainolamzar&icon=2&color=0)](https://visitcount.itsvg.in)  
 
 </div>
-
